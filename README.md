@@ -20,8 +20,8 @@ A Java ticket queue manager with a JavaFX interface. It supports adding and remo
 ### [Discord Ticket Bot](https://github.com/zvoarch/Ticket-Bot)
 A Node.js bot for managing support tickets through slash commands, with custom `Ticket` and `TicketQueue` classes and ticket history. It uses the Discord REST API to register commands and handle interactions.
 `JavaScript` `Node.js` `Discord.js`
----
 
+---
 ## 🧰 Technical Skills
 
 | | |
