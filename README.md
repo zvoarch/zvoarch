@@ -18,9 +18,8 @@ A Java ticket queue manager with a JavaFX interface. It supports adding and remo
 `Java` `JavaFX` `OOP`
 
 ### [Discord Ticket Bot](https://github.com/zvoarch/Ticket-Bot)
-A Node.js bot for managing support tickets through slash commands, with custom `Ticket` and `TicketQueue` classes and ticket history. It uses the Discord REST API to register commands and handle interactions. ([link](https://github.com/zvoarch/REPO-NAME))
+A Node.js bot for managing support tickets through slash commands, with custom `Ticket` and `TicketQueue` classes and ticket history. It uses the Discord REST API to register commands and handle interactions.
 `JavaScript` `Node.js` `Discord.js`
-
 ---
 
 ## 🧰 Technical Skills
@@ -35,13 +34,14 @@ A Node.js bot for managing support tickets through slash commands, with custom `
 
 ## 🌱 Currently
 
-- Strengthening my data structures and algorithms
 - Expanding SideKick with more tools and better reliability
 - Exploring open-source projects to start contributing
 
 ## 💡 Interests
 
-AI agents and LLM tooling · Developer productivity tools · Backend and systems programming · Building things that people actually use
+AI agents and LLM tooling · Backend and systems programming · Developer productivity tools · Software development in general
+
+**Want to learn next:** front-end development (HTML/CSS and React) and databases with PostgreSQL. There's still a lot to learn, and I'm excited to keep building.
 
 ## 🎯 Career Goals
 
